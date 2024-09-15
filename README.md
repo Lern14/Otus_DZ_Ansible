@@ -20,3 +20,5 @@
 ├── ubuntu-bionic-18.04-cloudimg-console.log
 
 └── Vagrantfile
+
+Проверка - curl http://localhost:8080
