@@ -9,7 +9,11 @@
 Проект:
 .
 ├── playbook.yml
+
 ├── templates
+
 │   └── nginx.conf.j2
+
 ├── ubuntu-bionic-18.04-cloudimg-console.log
+
 └── Vagrantfile
