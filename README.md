@@ -7,7 +7,9 @@
 2.Vagrant
 
 Проект:
+
 .
+
 ├── playbook.yml
 
 ├── templates
